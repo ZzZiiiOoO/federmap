@@ -195,7 +195,7 @@
          "name":"floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -391,8 +391,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":8,
          "firstgid":455,
-         "source":"..\/..\/Pipoya RPG Tileset 32x32\/SampleMap\/[A]Grass_pipo.tsx"
+         "image":"..\/..\/Pipoya RPG Tileset 32x32\/SampleMap\/[A]Grass_pipo.png",
+         "imageheight":2112,
+         "imagewidth":256,
+         "margin":0,
+         "name":"[A]Grass_pipo",
+         "spacing":0,
+         "tilecount":528,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":12,
@@ -430,19 +439,6 @@
          "name":"deco 3",
          "spacing":0,
          "tilecount":1024,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":16,
-         "firstgid":3799,
-         "image":"..\/..\/interior.png",
-         "imageheight":512,
-         "imagewidth":512,
-         "margin":0,
-         "name":"interior",
-         "spacing":0,
-         "tilecount":0,
          "tileheight":32,
          "tilewidth":32
         }, 
