@@ -393,7 +393,7 @@
         {
          "columns":8,
          "firstgid":455,
-         "image":"..\/..\/Pipoya RPG Tileset 32x32\/SampleMap\/[A]Grass_pipo.png",
+         "image":"src\/assets\/SampleMap\/[A]Grass_pipo.png",
          "imageheight":2112,
          "imagewidth":256,
          "margin":0,
@@ -406,7 +406,7 @@
         {
          "columns":12,
          "firstgid":983,
-         "image":"..\/..\/..\/Downloads\/Unorganized Parts\/addwork.png",
+         "image":"src\/assets\/Unorganized Parts\/addwork.png",
          "imageheight":2048,
          "imagewidth":384,
          "margin":0,
@@ -419,7 +419,7 @@
         {
          "columns":32,
          "firstgid":1751,
-         "image":"..\/..\/..\/Downloads\/Atlas2\/obj_misk_atlas.png",
+         "image":"src\/assets\/Atlas2\/obj_misk_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -432,7 +432,7 @@
         {
          "columns":32,
          "firstgid":2775,
-         "image":"..\/..\/..\/Downloads\/Atlas2\/build_atlas.png",
+         "image":"src\/assets\/Atlas2\/build_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -445,7 +445,7 @@
         {
          "columns":32,
          "firstgid":3799,
-         "image":"..\/..\/..\/Downloads\/lpc-victorian-buildings\/victorian-accessories.png",
+         "image":"src\/assets\/lpc-victorian-buildings\/victorian-accessories.png",
          "imageheight":2560,
          "imagewidth":1024,
          "margin":0,
@@ -458,7 +458,7 @@
         {
          "columns":32,
          "firstgid":6359,
-         "image":"..\/..\/..\/Downloads\/lpc-victorian-buildings\/victorian-mansion.png",
+         "image":"src\/assets\/lpc-victorian-buildings\/victorian-mansion.png",
          "imageheight":2048,
          "imagewidth":1024,
          "margin":0,
@@ -471,7 +471,7 @@
         {
          "columns":32,
          "firstgid":8407,
-         "image":"..\/..\/..\/Downloads\/lpc-victorian-buildings\/victorian-tenement.png",
+         "image":"src\/assets\/lpc-victorian-buildings\/victorian-tenement.png",
          "imageheight":3072,
          "imagewidth":1024,
          "margin":0,
@@ -484,7 +484,7 @@
         {
          "columns":32,
          "firstgid":11479,
-         "image":"..\/..\/..\/Downloads\/lpc-victorian-buildings\/victorian-windows-doors.png",
+         "image":"src\/assets\/lpc-victorian-buildings\/victorian-windows-doors.png",
          "imageheight":5120,
          "imagewidth":1024,
          "margin":0,
