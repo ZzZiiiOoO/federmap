@@ -37,6 +37,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.gouttedevie.com\/wa\/adverts\/"
+                }, 
+                {
+                 "name":"openWebsiteAllowApi",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -55,6 +60,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.gouttedevie.com\/wa\/community\/"
+                }, 
+                {
+                 "name":"openWebsiteAllowApi",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -70,9 +80,14 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"OpenWebsite",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.gouttedevie.com\/wa\/"
+                }, 
+                {
+                 "name":"openWebsiteAllowApi",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -91,6 +106,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/openagenda.com\/ville-de-lille?lang=fr"
+                }, 
+                {
+                 "name":"openWebsiteAllowApi",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -181,6 +201,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.gouttedevie.com\/wa\/tuto"
+                }, 
+                {
+                 "name":"openWebsiteAllowApi",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
