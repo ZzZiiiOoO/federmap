@@ -36,7 +36,7 @@
                       {
                        "name":"openWebsite",
                        "type":"string",
-                       "value":"https://www.gouttedevie.com/wa/adverts/"
+                       "value":"https://www.mon-equartier.fr/adverts/"
                       }, 
                       {
                        "name":"openWebsiteAllowApi",
@@ -59,7 +59,7 @@
                       {
                        "name":"openWebsite",
                        "type":"string",
-                       "value":"https://www.gouttedevie.com/wa/community/"
+                       "value":"https://www.mon-equartier.fr/community/"
                       }, 
                       {
                        "name":"openWebsiteAllowApi",
@@ -82,7 +82,7 @@
                       {
                        "name":"openWebsite",
                        "type":"string",
-                       "value":"https://www.gouttedevie.com/wa/"
+                       "value":"https://www.mon-equartier.fr/"
                       }, 
                       {
                        "name":"openWebsiteAllowApi",
@@ -200,7 +200,7 @@
                       {
                        "name":"openWebsite",
                        "type":"string",
-                       "value":"https://www.gouttedevie.com/wa/tuto"
+                       "value":"https://www.mon-equartier.fr/tuto"
                       }, 
                       {
                        "name":"openWebsiteAllowApi",
